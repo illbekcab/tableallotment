@@ -1,0 +1,69 @@
+team_number,team_name,team_size,problem_statement,member1_name,member2_name,member3_name,member4_name,member5_name,member6_name,participant_type
+1,Novastra ,6,GKM1,Ajai Seelan R ,Harini M,Dhanasekar S,Ameera M,Akash Kishore ,Harini C,external
+2,Syntax Error,4,GKM1,POOJITHA D,Sanjayan S,Jerita D,Mukesh Varma T,nil,nil,internal
+3,Back propaganda ,4,GKM2,Giridharan S ,Akshayaa elangovan ,Deepak Raj S,Divya dharshan D ,nil,nil,external
+4,Hack_tuah,5,GKM2,Saptarshi Misra,Lakshya Kachhara,Indrajit Sihi,Daiwik Khandelwal ,Agrim Verma,nil,internal
+5,Devsync,4,GKM3,Deeaa kaur,Aditi kar,B Sanjana,Roshini Pininti,nil,nil,internal
+6,QuadCore,4,GKM3,MAHATVA AGARWAL,AAYUSH RAJ,PRINCE KUMAR,DEEPTANU DHAR,nil,nil,internal
+7,SPAAAM,6,GKM5,Shivam Singh,Ayush Tiwari,Avinash Jeevan,Aman Kumar Jha ,Pratheerth Krishnan,Mithun Shankar,internal
+8,AlgoNova,5,GKM5,Mudit Sharma,Ansh kumar khandwal,Soumya shuvasish Sahoo,Akshat Saini,Suvankar Ghosh Dastidar,nil,internal
+9,Fanatics,6,GKM6,Shreyash Gautam ,Dipsita rout ,SIDDHARTH SETH ,Riddhi,Kollipara Naga Shreeya ,Meghna Mandawra,internal
+10,Tech Troopers,6,GKM6,Baranikumar ,Jeevith,Jiji Suba krithikaa ,Lathika Charanyah S,Sandhiya S,Harini M,external
+11,Red Chip,4,GKM6,Vedanth,Pharishith ,Keerthivasa Krishna A,Srinath,nil,nil,internal
+12,Tech team,5,GKM7,AKSHAYA.S,HARSHINI,SRI HARISHITA,SABARIRAJAN,SARAN SV,nil,internal
+13,Unemployed ,4,GKM7,Parvesh S M,Ithihas Thiruvenkata Durai,Jezer Nirmal,Jineshwar S D ,nil,nil,internal
+14,Auraman,4,GKM8,Vignesh N,Nithin R,Ahmed Zayd,Venkatprabhu VP,nil,nil,external
+15,AGENTS 404,6,GKM8,Jayasri J,Renushree S,Suvetha S,Devi Harshini G,Shalini T,Anandha Vaishini S,external
+16,Arduinators,4,GKM8,Avanthika P,Jairus Thangaraj ,N Saishrinivas,Bhavish Achindra,nil,nil,internal
+17,Generic 51,5,GKM9,Akash Vachagan M,Varshikan K,Sriram C,Adarsh Siva M B,Pranav Anandan,nil,internal
+18,DevÉlan,4,GKM9,Deepak P,Jagan s,Sunny joseph A,Student from another college,nil,nil,external
+19,RUNTIME TERRORS,4,GKM10,Abilash K,MONISH C,Sam Ranjith Rajan,Jaswant M K,nil,nil,internal
+20,CAP³S,6,GKM10,Puneeth Reddy T ,Pravit chandra,Chanukya ,Sriram reddy,Pranay yrl,Anishvaraya sai ganesh,internal
+21,Team 404,6,GKM11,Manoj Sagaran A,Azim Niyaz,Tharun Kumar A,Giridharan S,Giridharaeswaran S,Tejeswar,internal
+22,VRP,5,GKM11,Adithya Krishna P N,Hariharan S,Kishore K,Satheshkumar K,Suryaram A,nil,external
+23,Fasteners,4,GKM11,Saravanan K,Sachin K,Sailappan S,Rithick Praveen G,nil,nil,external
+24,Syndicate,6,GKM12,Mohammed Zion,Sai Chaitanya,S. Tarun Kumar,Vinay Sunkara,Jagath Dugyani,Javvadhi Sri Veera Sai viswanad Prasad,internal
+25,Since’23,6,GKM12,Arun ,Yogesh ,Nitish ,Rithika ,Aathi ,Sai ,internal
+26,JUDAS,5,GKM12,Raghav Karthik,V R Sona,Sowmya Arunachalam ,Cavin Chandran CA ,Hrishikesh R ,nil,internal
+27,Untitled!,6,GKM13,KAMESHWARAN M M,HARISIVANESH P,MATHILESH E,HASWINTH M,SANTHOSH S,MUKESH T,internal
+28,Ctrl C + Ctrl Win,4,GKM13,Rithesh Sundar,K M Sriram ,Ganapathi Karthik V,Kumaran Prathik V,nil,nil,internal
+29,Win.exe,6,GKM13,Monish Raja,Prasanth,Shruthi K ,Abhinavanagarajan A ,Venkata krishnan G,Pavithra Uthrah R. K.,internal
+30,Bugged,6,GKM13,Sanjay Ravichandran,Sowmya P,Sanjana Moturi,Sahana R,Gurhoshiaa S,Suvan B,internal
+31,HI-FIVE,5,GBA1,Kishore V,Rohith V,Yashica ,Tanisha,Dharini ,nil,internal
+32,Bitbots,4,GBA1,Sumit Yadav,Harsh Singh,Raghav Goyal,Aarav Jain,nil,nil,internal
+33,TEAM ERROR,6,GBA1,Sudarsan p,Sureesha p,Keshav Hagatheeshwar,Santhosh mr,B kishore,S Venkateshwaran,external
+34,Stack Overlords,6,GBA1,Ansh Mittal,Saubhagya Kumar Singh,Khushal Jangid,Dhruv Tilara,Garvit Dalakoti,Ansh Pathak,internal
+35,IQMAXXERS ,6,GBA1,AntoMerary ,Abdul Faiyaz S M ,Abdul Arshath B,Dinesh S,Aswin Kumar,Padmadev,external
+36,Data Explorers ,5,GBA1,T Pooja ,Durgha K ,Ronesha Navaneethan ,Krishni R.K.,VRT Kaarthik,nil,internal
+37,Glitchers,4,GBA1,Gopi krishna ,Sai Charan,Gayathri,Sarayu,nil,nil,internal
+38,Team Critical,6,GBA1,Annuj Kumar,Tanish Arora,Anirudh Singh,Aditya Sachan,Yash Bhardwaj,Harsh vikram singh,internal
+39,Null pointers,4,GBA1,Nikhil ,Varma,Akruthi,Vishwas ,nil,nil,internal
+40,Infynix,6,GBA1,M Abitha ,S Harshan,Archana Priya J,Rakshana Devi S,Pradeepa K,Hemaharini PV,internal
+41,Zentrix ,5,GAP1,Haniiska ,M.Akshaya sivagami ,Gogul nandhan.sp,Deepak prakash ,Akshaya vasudevan ,nil,external
+42,Cheese maggie,4,GAP1,Adarsh Kumar Mishra,Krish Dagar,Harshita Nandwani,Nil,nil,nil,internal
+43,Team Gedis,4,GAP2,Anush John Jacob,Alex Geo Kishore,Adwait S. Menon,Amarnath P,nil,nil,internal
+44,Tech HEIST,4,GAP2,C.Rupali,P.G.Prathap Chowthri,U.Mithra,V.Trisha,nil,nil,external
+45,Buggi Coders ,5,GAP3,Prajjwal Saggar ,Prakhar Pandey,Akash Singh ,Sameer Senapati ,Kaushik kumar ,nil,internal
+46,Team46,4,GAP3,Mohammad Thowfiq ,Nithinesh,Royston,Nasreyn abinash,nil,nil,external
+47,Techguys,6,GAP4,Mohit G,Keerthana P,Sayisupriya,Danish ,Sudhanshana priyan ,Karishma ,internal
+48,Dhuvarak Furious,6,GAP4,Vikhash I,Dharsan Sri T.K,Hariharan N,Kavinilavan ,Sujay Gnanaraj R.P,Nishant S,external
+49,DJANGO,6,GAP5,DINESH D,METHUN KRISHNA S ,HEMA PRAKASH D,SANJEV K,SUBHASH P,ABITH R,internal
+50,Chil Tech,6,GAP5,Harish Nataraj S,Sakthivel M,Vikkram GK,Imayavan N S,Dinesh kumar,Agnel Richard,internal
+51,debug ninjas,4,GBS1,Vennapusa Mallipujitha ,segineni venkat akhilesh,G.vishnu vardhan,k.jayadeep,nil,nil,internal
+52,radioheads,6,GBS1,Asik Kani,Yeswanth Ram Jp,Logesh R,BharaniDharan,Jerish E,Vishnu,internal
+53,CodeZilla,4,GBS1,Vedhashiva M T,Rahul jyani,Aman kumar pandey,Lakshay ,nil,nil,internal
+54,Mad2code,4,GBS1,Shivam Goel,Ayush Upadhyay,Nil,Nil,nil,nil,internal
+55,CyberNova,4,GBS1,R Akash,J Krish Kumar,Yashas Hareenath,Surendrakumar T,nil,nil,internal
+56,Runtime,4,GBS2,Manan Dudeja,Arnav Thapliyal,Akshat Singh,Tanushree adhikari,nil,nil,internal
+57,Hackerzz,4,GBS2,Haaziq Abdullah,Hazim Mohamed,Mohammed shayaan mir,Rohan Menon,nil,nil,internal
+58,Domestic,4,GBS2,PALANI KARTHIK N,NITISH BALAJI MANICA,RAGHURAM S,N L PADMA SWATI,nil,nil,internal
+59,Neural Nomads,4,GBS2,Sahil Singh,Soorya Prataap Ray,Chetan Pareek,Lakshya Sharma,nil,nil,internal
+60,Immortal Miners,4,GBS2,Naman Sharma,Vijay.M,Vineet B,Vikhraman G.S,nil,nil,internal
+61,GlitchHackers,4,GBS2,RISHI CHAKLASIA,KASHINATH JAYAMOHAN,ADITYARAJ GUPTA,NIL,nil,nil,internal
+62,Spartans,5,,Arun R,Abhinav S,Saravana kumar S,Piraveen G,Arunmozhivarman.A.R,nil,internal
+63,Faaahh ????,4,,Kamisetty Sriram,Madasu Riharika,Sahithi Doppalapudi,Sudeepthi Reddy,nil,nil,internal
+64,Code zero one,6,,James AKS,Naveen Kumar A,Dhandabani M,Naganathan N,Dhevadharshini s,Monisha K,external
+65,KIT CRACKERS,5,,Jegadeshwaran,Sujith P,JEEVANANTHAM P,Abinesh k,KAVIN PRASHANTH P,nil,external
+66,Team unknown,6,,Arnav Saklani,Atreyi Dey,Jaya bakshi,Pulkit Taneja,Divyansh Saxena,M R Krishni,internal
+67,Thunder bolt,5,,Divya Kala R,B Ragava Prasath,Raghul D,Gokula krishnan D,Preethika N,nil,external
+68,Code Crafters,6,,Ajay S,Rithika Y,Harini L.R.,Adithya .M,Deepak V,shailu,external
